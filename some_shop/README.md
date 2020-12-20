@@ -1,5 +1,7 @@
 # some_shop
 
+Small [ Vue App ] shop example.
+
 ## Project setup
 ```
 npm install
